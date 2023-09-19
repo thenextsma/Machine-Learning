@@ -1,6 +1,5 @@
 # Machine-Learning
 Machine Learning A-Z course using Python
-
 Topics covered so far:
 
 REGRESSION:
